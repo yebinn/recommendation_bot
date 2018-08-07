@@ -1,2 +1,1 @@
-print("hello world")
-print("hi iii")
+print("hi you want to see tv?")
